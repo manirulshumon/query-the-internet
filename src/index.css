@@ -48,3 +48,19 @@ body {
   line-height: 20px;
   text-align: center;
 }
+
+.header {
+  border: #333 1px solid;
+  color: skyblue;
+  padding: 30px;
+  border-radius: 3px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.hero {
+  border: #333 1px solid;
+  color: blueviolet;
+  padding: 70px;
+  margin-top: 0px;
+}
